@@ -1,0 +1,23 @@
+2020-07-09 13:07:591 INFO  TestBase:51 - **************testValidLoginStarted***************
+2020-07-09 13:07:647 INFO  LoginPage:41 - Login Page Object Created
+2020-07-09 13:07:647 INFO  LoginPage:47 - clicked on sign in link...
+2020-07-09 13:07:670 INFO  LoginPage:53 - entering email address....testmail1234567@gmail.com
+2020-07-09 13:07:873 INFO  LoginPage:59 - entering password....Test@123
+2020-07-09 13:07:987 INFO  LoginPage:65 - clicking on submit button...
+2020-07-09 13:07:466 INFO  LoginPage:97 - Logging out from App...
+2020-07-09 13:07:961 INFO  TestBase:82 - **************testValidLoginFinished***************
+2020-07-09 13:07:466 INFO  TestBase:51 - **************testTillPaymentPageStarted***************
+2020-07-09 13:07:466 INFO  LoginPage:41 - Login Page Object Created
+2020-07-09 13:07:466 INFO  LoginPage:47 - clicked on sign in link...
+2020-07-09 13:07:985 INFO  LoginPage:53 - entering email address....testmail1234567@gmail.com
+2020-07-09 13:07:173 INFO  LoginPage:59 - entering password....Test@123
+2020-07-09 13:07:275 INFO  LoginPage:65 - clicking on submit button...
+2020-07-09 13:07:683 INFO  NavigationMenu:36 - doing mouse over on :Women
+2020-07-09 13:07:767 INFO  NavigationMenu:43 - click on : Women
+2020-07-09 13:07:629 INFO  ProductCategoryPage:45 - clicking on add to cart
+2020-07-09 13:07:831 INFO  ProductCategoryPage:51 - clicking on proceed to checkout button
+2020-07-09 13:07:793 INFO  ShoppinCartSummaryPage:45 - Clicked on Proceed to Checkout At Cart
+2020-07-09 13:07:392 INFO  ShoppinCartSummaryPage:52 - Clicked on Proceed to Checkout At Address
+2020-07-09 13:07:857 INFO  ShoppinCartSummaryPage:59 - Clicked on Terms and Services
+2020-07-09 13:07:947 INFO  ShoppinCartSummaryPage:66 - Clicked on Proceed to Checkout At Shipping
+2020-07-09 13:07:884 INFO  TestBase:82 - **************testTillPaymentPageFinished***************
